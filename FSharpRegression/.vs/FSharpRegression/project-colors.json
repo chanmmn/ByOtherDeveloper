@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "94196d1e-b2ad-4fb9-9ed1-ceb8d5bcf202": {
+      "ProjectGuid": "94196d1e-b2ad-4fb9-9ed1-ceb8d5bcf202",
+      "DisplayName": "FSharpRegression",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,13 @@
+C:\test\other\ML\FSharpRegression\bin\Debug\netcoreapp2.2\SalaryTest.csv
+C:\test\other\ML\FSharpRegression\bin\Debug\netcoreapp2.2\SalaryTrain.csv
+C:\test\other\ML\FSharpRegression\bin\Debug\netcoreapp2.2\FSharpRegression.deps.json
+C:\test\other\ML\FSharpRegression\bin\Debug\netcoreapp2.2\FSharpRegression.runtimeconfig.json
+C:\test\other\ML\FSharpRegression\bin\Debug\netcoreapp2.2\FSharpRegression.runtimeconfig.dev.json
+C:\test\other\ML\FSharpRegression\bin\Debug\netcoreapp2.2\FSharpRegression.dll
+C:\test\other\ML\FSharpRegression\bin\Debug\netcoreapp2.2\FSharpRegression.pdb
+C:\test\other\ML\FSharpRegression\obj\Debug\netcoreapp2.2\FSharpRegression.fsproj.AssemblyReference.cache
+C:\test\other\ML\FSharpRegression\obj\Debug\netcoreapp2.2\FSharpRegression.AssemblyInfoInputs.cache
+C:\test\other\ML\FSharpRegression\obj\Debug\netcoreapp2.2\FSharpRegression.AssemblyInfo.fs
+C:\test\other\ML\FSharpRegression\obj\Debug\netcoreapp2.2\FSharpRegression.dll
+C:\test\other\ML\FSharpRegression\obj\Debug\netcoreapp2.2\FSharpRegression.pdb
+C:\test\other\ML\FSharpRegression\obj\Debug\netcoreapp2.2\FSharpRegression.genruntimeconfig.cache
